@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.com/omohayui/WWW-FCM-HTTP-V1.svg?branch=master)](https://travis-ci.com/omohayui/WWW-FCM-HTTP-V1)
 # NAME
 
 WWW::FCM::HTTP::V1 - Client for Firebase Cloud Messaging HTTP v1 API
